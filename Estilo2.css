@@ -1,0 +1,49 @@
+body {
+    font-family: Candara;
+}
+header {
+    background-color: #60463B;
+    text-align: center;
+}
+h1 {
+    color: #CCC9E7;
+    font-size: 70px;
+    padding: 5px;
+}
+nav {
+    border: 5px inset #60463B;
+    padding: 10px;
+}
+
+nav a {
+    background-color: #81B45C;
+    color: black;
+    text-decoration: none;
+    padding: 3px;
+    margin: 3px;
+    border-radius: 10px;
+    font-size: 30px;
+}
+
+.page2 {
+    background-color: #99E871;
+}
+
+img {
+    width: 200px;
+    margin: 10px;
+}
+
+.img3 {
+    border-radius: 50px;
+    border: 10px double #CCC9E7 ;
+}
+
+.img4 {
+    border-radius: 10px;
+    border: 10px double #CCC9E7 ;
+}
+
+p {
+    font-size: 20px;
+}
